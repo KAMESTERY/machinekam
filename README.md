@@ -1,6 +1,31 @@
 # machinekam
 Kamestery Machine Learning
 
+## Git Setup
+
+```{bash}
+# Clone the main repository
+git clone https://github.com/KAMESTERY/machinekam.git my_machinekam
+
+# Now navigate to https://github.com/KAMESTERY/machinekam and fork the remository
+# Then add you fork as a remote
+cd my_machinekam
+git remote add my_machinekam https://github.com/yourusername/machinekam
+
+# List your remotes
+git remote
+#-output-> my_webkam
+#-output-> origin
+
+# Make changes and push them to your fork
+git push -u my_machinekam master
+
+# Finally navigate to https://github.com/yourusername/machinekam and create a pull request
+
+# That completes your git workflow for contributing to this project. Thank you!
+
+```
+
 ## PyTorch
 
 * [TRANSLATION WITH A SEQUENCE TO SEQUENCE NETWORK AND ATTENTION](https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html)
