@@ -20,7 +20,10 @@ git remote
 # Make changes and push them to your fork
 git push -u my_machinekam master
 
-# Finally navigate to https://github.com/yourusername/machinekam and create a pull request
+# And navigate to https://github.com/yourusername/machinekam and create a pull request
+
+# Finally pull new changes from origin
+git pull origin master
 
 # That completes your git workflow for contributing to this project. Thank you!
 
