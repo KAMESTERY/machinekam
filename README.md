@@ -29,6 +29,17 @@ git pull origin master
 
 ```
 
+## Getting Started with NimTorch
+
+```{bash}
+# Install nim
+brew install miniconda nim
+
+# Install NimTorch
+conda create -n nimtorch -c fragcolor nimtorch
+
+```
+
 ## PyTorch
 
 * [TRANSLATION WITH A SEQUENCE TO SEQUENCE NETWORK AND ATTENTION](https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html)
