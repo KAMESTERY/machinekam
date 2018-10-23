@@ -32,6 +32,7 @@ git pull origin master
 ## Project Setup
 
 ```{bash}
+# Go to machinekam
 cd machinekam
 
 # Create the MACHINEKAM Conda Environment
@@ -41,7 +42,7 @@ cd machinekam
 source activate MACHINEKAM # for UNIX like shells
 
 # Install the dependencies
-#TODO
+./cmd.sh deps.install
 ```
 
 ## Getting Started with NimTorch
@@ -67,6 +68,11 @@ conda create -n nimtorch -c fragcolor nimtorch
 
 * [Text summarization with TensorFlow](https://ai.googleblog.com/2016/08/text-summarization-with-tensorflow.html)
 
+## R, ML, Deep Learning
+
+* [Tidyverse packages](https://www.tidyverse.org/packages/)
+* [R Interface to Python](https://rstudio.github.io/reticulate/)
+* [R Interface to TensorFlow](https://tensorflow.rstudio.com/)
 
 ## Miscellaneous
 

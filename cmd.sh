@@ -56,6 +56,7 @@ case $1 in
     deps.install)
         activate_env
         pip install -r requirements.txt --upgrade
+        Rscript $BASEDIR/requirements.R
         ;;
     clean)
         clean_all
