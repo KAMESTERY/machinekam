@@ -29,6 +29,21 @@ git pull origin master
 
 ```
 
+## Project Setup
+
+```{bash}
+cd machinekam
+
+# Create the MACHINEKAM Conda Environment
+./cmd.sh py3.create
+
+# Activate it
+source activate MACHINEKAM # for UNIX like shells
+
+# Install the dependencies
+#TODO
+```
+
 ## Getting Started with NimTorch
 
 ```{bash}
@@ -51,3 +66,9 @@ conda create -n nimtorch -c fragcolor nimtorch
 * [Building Your Own Neural Machine Translation System in TensorFlow](https://ai.googleblog.com/2017/07/building-your-own-neural-machine.html)
 
 * [Text summarization with TensorFlow](https://ai.googleblog.com/2016/08/text-summarization-with-tensorflow.html)
+
+
+## Miscellaneous
+
+* [Education and Resources Site](http://www.matt-versaggi.com/mit_open_courseware/)
+* [Installing R and Python in Anaconda for Biologists](https://chrisconlan.com/installing-r-python-anaconda-biologists/)
