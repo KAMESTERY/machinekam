@@ -70,5 +70,7 @@ conda create -n nimtorch -c fragcolor nimtorch
 
 ## Miscellaneous
 
+* [The Power of Headless Chrome](https://developers.google.com/web/tools/puppeteer/)
+* [Puppeteer](https://pptr.dev/)
 * [Education and Resources Site](http://www.matt-versaggi.com/mit_open_courseware/)
 * [Installing R and Python in Anaconda for Biologists](https://chrisconlan.com/installing-r-python-anaconda-biologists/)
