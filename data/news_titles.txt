@@ -1,0 +1,92 @@
+[
+    {
+        "title": "Burkina : La gouverneure générale du Canada élevée au rang de la Dignité de Grand-Croix de l’Ordre national"
+    },
+    {
+        "title": "Accueil de la gouverneure générale du Canada : le président du Faso plaide pour un soutien au G5 Sahel"
+    },
+    {
+        "title": "60e anniversaire du Conseil de l’entente : Des activités culturelles et sportives au programme de la célébration"
+    },
+    {
+        "title": "Poème : Hommage au pionnier de la presse en ligne au Burkina Faso"
+    },
+    {
+        "title": "Sucrerie du Faso : De nouvelles boissons en canette pour rafraîchir les Burkinabè"
+    },
+    {
+        "title": "Rentrée scolaire 2018-2019 : Le SNESS invite ses militants, à rester prêts pour les défis en cas de besoin"
+    },
+    {
+        "title": "Livre-témoignage de Yacouba Isaac ZIDA : « Une boîte d’allumettes mouillées » selon Lengha Fils"
+    },
+    {
+        "title": "Journée mondiale de l’environnement 2018 : Sous le signe de la lutte contre les déchets plastiques"
+    },
+    {
+        "title": "Auditions à l’Assemblée nationale : Le droit de réponse du ministère de l’Eau et de l’Assainissement"
+    },
+    {
+        "title": "Décès de Adja Cissé Assétou : Remerciements et faire part"
+    },
+    {
+        "title": "Décès de Mme KABORÉ née TOLGHO Lucienne : Faire part"
+    },
+    {
+        "title": "Incendie du domicile de Salifou Diallo : « Il faut être fou pour le faire » (Salifou Sawadogo, ancien député)"
+    },
+    {
+        "title": "Désiré Traoré, Député de l’UNIR/PS : La politique comme l’expression de l’engagement citoyen"
+    },
+    {
+        "title": "Gestion de la Transition au Burkina : Coris Bank International dément les allégations de Yacouba Isaac ZIDA"
+    },
+    {
+        "title": "« Sauvons Air Burkina », le cri de cœur d’un citoyen"
+    },
+    {
+        "title": "Nouveau gouvernement en Ethiopie : De quoi inspirer le Burkina"
+    },
+    {
+        "title": "Conseil supérieur des Burkinabè de l’extérieur : Gaëtan Ouédraogo officiellement installé comme représentant des Burkinabè de trois (...)"
+    },
+    {
+        "title": "Agriculture Contractuelle : La Coopération Allemande (GIZ) outille les acteurs des filières agricoles"
+    },
+    {
+        "title": "Avis d’Appel d’Offres pour la fourniture et l’installation d’un poste de livraison, d’un poste de transformation et raccordement"
+    },
+    {
+        "title": "Cours d’anglais au Centre Américain de Langue : Tous les samedis"
+    },
+    {
+        "title": "Séminaire de formation en rédaction administrative"
+    },
+    {
+        "title": "Tableau des séminaires de formation du Centre Parlementaire Panafricain et du cabinet Africa Consult & Performances"
+    },
+    {
+        "title": "Prolongation du délai de dépôt des dossiers pour le recrutement d’étudiants en formation ouverte a distance (FOAD)"
+    },
+    {
+        "title": "COURS D’ANGLAIS A L’ISLACO : Cours du soir /cours du jour"
+    },
+    {
+        "title": "Le Centre de Formation Professionnelle Industrielle de Bobo (CFPI-B), recrute des candidats à la formation pour la rentrée 2018-2019"
+    },
+    {
+        "title": "PRENEZ UNE LONGUEUR D’AVANCE, Inscrivez-vous au Centre Américain de Langue"
+    },
+    {
+        "title": "Offre de bourses dans les domaines de l’agriculture, des Mathématiques, du Génie civil hydraulique et environnement et la Gouvernance universitaire"
+    },
+    {
+        "title": "2 AS : Planning formations dernier trimestre 2018"
+    },
+    {
+        "title": "Université de Fada N’Gourma : Test d’entrée en première année de Licence en Génie Civil « Bâtiments & Travaux Publics » et en Génie Géologique & Minier « Exploration & Exploitation Minières »"
+    },
+    {
+        "title": "Avis d´appel d’offre pour le recrutement d’un cabinet d’expertise comptable"
+    }
+]
