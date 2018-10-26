@@ -76,6 +76,7 @@ conda create -n nimtorch -c fragcolor nimtorch
 
 ## Miscellaneous
 
+* [Harvard University -- An end to end tutorial of a machine learning pipeline](https://github.com/Spandan-Madan/DeepLearningProject)
 * [The Power of Headless Chrome](https://developers.google.com/web/tools/puppeteer/)
 * [Puppeteer](https://pptr.dev/)
 * [Education and Resources Site](http://www.matt-versaggi.com/mit_open_courseware/)
