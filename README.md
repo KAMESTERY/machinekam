@@ -1,6 +1,9 @@
 # machinekam
 Kamestery Machine Learning
 
+## Launch Project
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/KAMESTERY/machinekam.git/master)
+
 ## Git Setup
 
 ```{bash}
