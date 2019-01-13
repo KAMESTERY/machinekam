@@ -1,0 +1,7 @@
+
+name: MACHINEKAM
+dependencies:
+  - pandas
+  - torch
+  - torchvision
+  - tensorflow
