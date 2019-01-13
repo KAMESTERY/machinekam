@@ -35,28 +35,17 @@ git pull origin master
 ## Project Setup
 
 ```{bash}
+# Install miniconda and nim
+brew install miniconda nim # MacOS
+
 # Go to machinekam
 cd machinekam
 
 # Create the MACHINEKAM Conda Environment
-./cmd.sh py3.create
+conda env create -f environment.yml
 
 # Activate it
 source activate MACHINEKAM # for UNIX like shells
-
-# Install the dependencies
-./cmd.sh deps.install
-```
-
-## Getting Started with NimTorch
-
-```{bash}
-# Install nim
-brew install miniconda nim
-
-# Install NimTorch
-conda create -n nimtorch -c fragcolor nimtorch
-
 ```
 
 ## PyTorch
