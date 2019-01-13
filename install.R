@@ -1,8 +1,8 @@
 
 # Repositories
-r = getOption("repos")
-r["CRAN"] = "http://cran.us.r-project.org"
-options(repos = r)
+#r = getOption("repos")
+#r["CRAN"] = "http://cran.us.r-project.org"
+#options(repos = r)
 
 # R Dependencies
 install.packages("tidyverse")
