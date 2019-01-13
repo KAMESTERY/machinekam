@@ -1,7 +1,0 @@
-
-# Dependencies
-
-pandas
-pytorch
-torchvision
-tensorflow
