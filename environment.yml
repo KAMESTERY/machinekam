@@ -1,7 +1,12 @@
 
 name: MACHINEKAM
+channels:
+  - javascript
+  - fragcolor
 dependencies:
+  - nodejs
   - pandas
   - pytorch
   - torchvision
+  - nimtorch
   - tensorflow
