@@ -3,11 +3,11 @@ name: MACHINEKAM
 channels:
   - javascript
   - fragcolor
-  - r
+#   - r
 dependencies:
-  - r
-  - r-essentials
-  - r-base
+#   - r
+#   - r-essentials
+#   - r-base
   - nodejs
   - pandas
   - pytorch
