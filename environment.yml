@@ -2,15 +2,15 @@
 name: MACHINEKAM
 channels:
   - javascript
-  - fragcolor
+#   - fragcolor
 #   - r
 dependencies:
 #   - r
 #   - r-essentials
 #   - r-base
   - nodejs
-  - pandas
-  - pytorch
-  - torchvision
-  - nimtorch
-  - tensorflow
+#   - pandas
+#   - pytorch
+#   - torchvision
+#   - nimtorch
+#   - tensorflow
