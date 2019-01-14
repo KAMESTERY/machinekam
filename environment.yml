@@ -9,7 +9,7 @@ dependencies:
 #   - r-essentials
 #   - r-base
   - nodejs
-#   - pandas
+  - pandas
 #   - pytorch
 #   - torchvision
 #   - nimtorch
