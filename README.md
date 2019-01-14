@@ -35,8 +35,11 @@ git pull origin master
 ## Project Setup
 
 ```{bash}
-# Install miniconda and nim
-brew install miniconda nim # MacOS
+# Install miniconda, nim, and R
+brew tap homebrew/science # MacOS
+brew install Caskroom/cask/xquartz # MacOS
+brew install r # MacOS
+brew install miniconda nim R # MacOS
 
 # Go to machinekam
 cd machinekam
